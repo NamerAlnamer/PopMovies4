@@ -20,7 +20,7 @@ android {
 
 //    Hadi studied
     buildTypes.each {
-        it.buildConfigField 'String', 'POP_MOVIES_API_KEY', '"5b335e2232a6926691780b96dd782315"'
+        it.buildConfigField 'String', 'POP_MOVIES_API_KEY', '"xxxxxxxxxxxxxxxxxxxxxxxxxx"'
     }
 }
 // Hadi studied
